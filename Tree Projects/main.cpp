@@ -87,7 +87,7 @@ main() {
 		tree[a].insert(b);
 		tree[b].insert(a);
 	}
-	cout<<"Enter the node which is node : ";
+	cout<<"Enter the node which is root : ";
 	int node;
 	cin>>node;
 	
